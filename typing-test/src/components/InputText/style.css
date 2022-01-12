@@ -1,0 +1,7 @@
+.input-display-container{
+    padding: 20px;
+}
+.input-textarea{
+    width:100%;
+    max-width: 700px;
+}
